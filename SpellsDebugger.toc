@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: |cFFFFB6C1SpellsDebugger|r
+## Notes: Inspired by InterruptBar and TellMeWhen
+## Author: Gravenuance
+## Version: 1.0
+## DefaultState: Enabled
+
+SpellsDebugger.lua
