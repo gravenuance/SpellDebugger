@@ -1,6 +1,6 @@
 ## Interface: 20400
 ## Title: |cFFFFB6C1SpellsDebugger|r
-## Notes: Inspired by InterruptBar and TellMeWhen
+## Notes: 2.4.3 Spell Debugging
 ## Author: Gravenuance
 ## Version: 1.0
 ## DefaultState: Enabled
